@@ -499,6 +499,10 @@ a.icon-contato {
 	text-align: center;
 }
 
+ div.col{
+margin-left: -40px;
+ }
+
 .single-footer-widget input {
   line-height: 38px;
   border: none;
